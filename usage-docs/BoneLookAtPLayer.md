@@ -1,10 +1,10 @@
-## BoneLookAtPlayer
+# BoneLookAtPlayer
 Intended as a rotation for objects like cameras, NPCs, or other items that should face the nearest player.
 
-Requires:
+## Requires:
 - Nothing
 
-Object To Rotate - Type: GameObject
+## Object To Rotate - Type: GameObject
 - Takes a bone GameObject (or any other GameObject for all I care) and sets it as the target to rotate.
 Rotation Speed - Type: Float
 - Limits the rotation speed to this value in degrees per second.
