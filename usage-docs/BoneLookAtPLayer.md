@@ -1,4 +1,4 @@
-# BoneLookAtPlayer
+# Bone Look At Player
 Intended as a rotation for objects like cameras, NPCs, or other items that should face the nearest player.
 
 ## Requires:
