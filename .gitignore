@@ -1,0 +1,3 @@
+# Ignore asset and meta files, as tehy are generated on import
+*.asset
+*.meta
