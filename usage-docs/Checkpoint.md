@@ -6,4 +6,4 @@ Requires:
 - Collider set to Is Trigger
 
 Target Object - Type: GameObject
-    Intended to be used for the VRCWorld component to track progress and move the respawn location for the local player.
+- Intended to be used for the VRCWorld component to track progress and move the respawn location for the local player.
